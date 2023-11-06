@@ -3,12 +3,13 @@
 	display: flex;
 	flex-wrap: wrap;
    background:black;
+
 }
 
 .square {
 	width: 10px;
 	height: 10px;
-	background-color: rgb(29, 29, 29);
+	background-color: rgb(29, 29, 21);
 	margin: 1px;
 	transition: background-color 1s ease ;
 }
