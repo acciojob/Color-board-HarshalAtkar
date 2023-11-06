@@ -8,11 +8,11 @@
 .square {
 	width: 10px;
 	height: 10px;
-	background-color: white;
+	background-color: rgb(29, 29, 29);
 	margin: 1px;
-	transition: background-color 1s;
+	transition: background-color 1s ease ;
 }
 
 .square:hover {
-	background-color: black;
+	background-color: white;
 }
