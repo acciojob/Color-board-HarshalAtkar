@@ -16,6 +16,6 @@ squares.forEach(square => {
   });
 
   square.addEventListener('mouseout', () => {
-    square.style.backgroundColor = 'white';
+    square.style.backgroundColor = 'black';
   });
 });
