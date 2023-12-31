@@ -12,10 +12,10 @@ const squares = document.querySelectorAll('.square');
 
 squares.forEach(square => {
   square.addEventListener('mouseover', () => {
-    square.style.backgroundColor = 'white';
+    square.style.backgroundColor = 'black';
   });
 
   square.addEventListener('mouseout', () => {
-    square.style.backgroundColor = 'black';
+    square.style.backgroundColor = 'white';
   });
 });
