@@ -10,12 +10,12 @@ for(let i =1 ; i<=800 ; i++)
 	}
 const squares = document.querySelectorAll('.square');
 
-squares.forEach(square => {
-  square.addEventListener('mouseover', () => {
-    square.style.backgroundColor = '1d1d1d';
-  });
+// squares.forEach(square => {
+//   square.addEventListener('mouseover', () => {
+//     square.style.backgroundColor = '1d1d1d';
+//   });
 
-  square.addEventListener('mouseout', () => {
-    square.style.backgroundColor = 'white';
-  });
-});
+//   square.addEventListener('mouseout', () => {
+//     square.style.backgroundColor = 'white';
+//   });
+// });
