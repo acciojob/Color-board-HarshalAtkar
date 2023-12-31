@@ -7,12 +7,13 @@
 }
 
 .square {
-	width: 10px;
-	height: 10px;
-	background-color: rgb(29, 29, 29);
-	margin: 1px;
-	transition: background-color 1s ease ;
+  width: 14px;
+  height: 14px;
+  background-color: green;
+  margin: 1px;
+  transition: background-color 0.01s ease;
 }
+
 
 .square:hover {
 	background-color: white;
