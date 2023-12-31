@@ -9,7 +9,7 @@
 .square {
   width: 14px;
   height: 14px;
-  background-color: green;
+  background-color: black;
   margin: 1px;
   transition: background-color 0.01s ease;
 }
